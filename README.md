@@ -21,7 +21,7 @@
 * **Course ID:** CS406
 * **Class ID:** CS406.O11.KHCL
 * **Năm học:** HK1 (2023 - 2024)
-* **Lecturer:** PhD. Mai Tiến Dũng *dungmt@uit.edu.vn*
+* **Lecturer:** PhD. Mai Tiến Dũng - *dungmt@uit.edu.vn*
 
 ## TEAM INFORMATION
 | No. | Full name | Student ID | Role | Email | Github | Facebook |
@@ -36,8 +36,7 @@
 [2. vanNTN's exercises/labs](https://github.com/nhwzaan/image_processing_and_applications)
 
 
-## FINAL PROJECT
-* **Chủ đề:** **VIRTUAL FITTING ROOM**
+## FINAL PROJECT: VIRTUAL FITTING ROOM
 
 **1.   Problems:**
 
