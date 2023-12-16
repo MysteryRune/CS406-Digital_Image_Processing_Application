@@ -6,9 +6,9 @@ This repo is serve for Final project CS406 class at UIT-VNUHCMC (University of I
 [Branch "main"](https://github.com/MysteryRune/CS406-Digital_Image_Processing_Application)
 
 ## Some reference model for Segmentation task
-*[x] was read, [ ] have not read yet*
+[x] was read, [ ] have not read yet
 
-> 1. [x] U-Net
+> 1. [ ] U-Net
 > 2. [ ] DeepLab
 > 3. [ ] Mask R-CNN
 > 4. [ ] FCN (Fully Convolutional Networks)
