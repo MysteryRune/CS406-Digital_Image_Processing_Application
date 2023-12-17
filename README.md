@@ -10,7 +10,7 @@ This repo is serve for Final project CS406 class at UIT-VNUHCMC (University of I
 * [x] was read
 * [ ] have not read yet
 
-> 1. [ ] U-Net
+> 1. [x] U-Net (_note:_ chưa test được trên fashion product dataset, nhưng kết quả trên test set vẫn khá thấp)
 > 2. [ ] DeepLab
 > 3. [ ] Mask R-CNN
 > 4. [ ] FCN (Fully Convolutional Networks)
