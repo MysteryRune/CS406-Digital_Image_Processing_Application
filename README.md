@@ -8,6 +8,7 @@ This repo is serve for Final project CS406 class at UIT-VNUHCMC (University of I
 ## Some reference model for Segmentation task
 
 ✅ was read
+
 ❌ have not read yet
 
 | No. | Model name                                                 | Checked | Comment                                                                               | Inspector          |
