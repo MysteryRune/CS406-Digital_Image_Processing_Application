@@ -14,7 +14,7 @@ This repo is serve for Final project CS406 class at UIT-VNUHCMC (University of I
 |-----|------------------------------------------------------------|---------|---------------------------------------------------------------------------------------|--------------------|
 | 1   | YOLOv8x-seg                                                | ✅       | Try to use, easy to use, need to custom dataset to fit in domain                      | Huy Pham Bui Nhat  |
 | 2   | U-Net                                                      | ✅       | Chưa test được trên fashion product dataset, nhưng kết quả trên test set vẫn khá thấp | Van Nguyen Thi Nhu |
-| 3   | DeepLab                                                    | ❌       |                                                                                       |                    |
+| 3   | DeepLab                                                    | ✅       |                                                                                       |                    |
 | 4   | Mask R-CNN                                                 | ✅       | Hard to use --> Skip                                                                  | Huy Pham Bui Nhat  |
 | 5   | FCN (Fully Convolutional Networks)                         | ❌       |                                                                                       |                    |
 | 6   | PSPNet (Pyramid Scene Parsing Network)                     | ❌       |                                                                                       |                    |
