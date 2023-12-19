@@ -12,7 +12,7 @@ This repo is serve for Final project CS406 class at UIT-VNUHCMC (University of I
 
 > 1. [x] U-Net (_note:_ chưa test được trên fashion product dataset, nhưng kết quả trên test set vẫn khá thấp)
 > 2. [ ] DeepLab
-> 3. [ ] Mask R-CNN
+> 3. [x] Mask R-CNN (_note:_ Khó xài quá nên skip!!!)
 > 4. [ ] FCN (Fully Convolutional Networks)
 > 5. [ ] PSPNet (Pyramid Scene Parsing Network)
 > 6. [ ] UNet++
