@@ -7,11 +7,12 @@ This repo is serve for Final project CS406 class at UIT-VNUHCMC (University of I
 
 ## Flow and task
 
-| Stage | Comment                                          | Inspector                             | Date | Status |
-|-------|--------------------------------------------------|---------------------------------------|------|--------|
-| 1     | Choose dataset                                   | Huy Pham Bui Nhat                     | _    | ✅      |
-| 2     | Choose model for segmentation task: YOLOv8x-seg  | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ✅      |
-| 3     | Collect and create dataset for training, testing | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ❌      |
+| Stage | Comment                                                         | Inspector                             | Date | Status |
+|-------|-----------------------------------------------------------------|---------------------------------------|------|--------|
+| 1     | Choose dataset                                                  | Huy Pham Bui Nhat                     | _    | ✅      |
+| 2     | Choose model for segmentation task: Based on pretrained U2Net clothing segmentation  | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ✅      |
+| 3     | Collect and create dataset for training, testing                | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ❌      |
+| 4     | Collect and create dataset for training, testing                | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ❌      |
 
 
 ## Some reference model for Segmentation task
@@ -28,7 +29,7 @@ This repo is serve for Final project CS406 class at UIT-VNUHCMC (University of I
 | 4   | Mask R-CNN                                                 | ✅       | Hard to use --> Skip                                                                  | Huy Pham Bui Nhat  |
 | 5   | FCN (Fully Convolutional Networks)                         | ❌       |                                                                                       |                    |
 | 6   | PSPNet (Pyramid Scene Parsing Network)                     | ❌       |                                                                                       |                    |
-| 7   | UNet++                                                     | ❌       |                                                                                       |                    |
+| 7   | UNet++                                                     | ✅       | This model at a glance: silly, hard to understand architecture                        | Van Nguyen Thi Nhu |
 | 8   | ENet (Efficient Neural Network)                            | ❌       |                                                                                       |                    |
 | 9   | HRNet (High-Resolution Network)                            | ❌       |                                                                                       |                    |
 | 10  | LinkNet                                                    | ❌       |                                                                                       |                    |
@@ -46,7 +47,7 @@ This repo is serve for Final project CS406 class at UIT-VNUHCMC (University of I
 | 22  | DUC (Dilated Convolutional Networks with Dual Attention)   | ❌       |                                                                                       |                    |
 | 23  | HRNetV2 (High-Resolution Network Version 2)                | ❌       |                                                                                       |                    |
 | 24  | MixNet-Segmentation                                        | ❌       |                                                                                       |                    |
-| 25  | U-2-Net                                                    | ❌       |                                                                                       |                    |
+| 25  | U-2-Net                                                    | ✅       | Easy to use                                                                           | Van Nguyen Thi Nhu |
 | 26  | ESPNetv2 (Efficient Spatial Pyramid of Transformers)       | ❌       |                                                                                       |                    |
 | 27  | SFNet (Selective Feature Fusion Network)                   | ❌       |                                                                                       |                    |
 | 28  | LEDNet (Lightweight Encoder-Decoder Network)               | ❌       |                                                                                       |                    |
