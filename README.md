@@ -5,6 +5,15 @@ This repo is serve for Final project CS406 class at UIT-VNUHCMC (University of I
 
 [Branch "main"](https://github.com/MysteryRune/CS406-Digital_Image_Processing_Application)
 
+## Flow and task
+
+| Stage | Comment                                          | Inspector                             | Date | Status |
+|-------|--------------------------------------------------|---------------------------------------|------|--------|
+| 1     | Choose dataset                                   | Huy Pham Bui Nhat                     | _    | ✅      |
+| 2     | Choose model for segmentation task: YOLOv8x-seg  | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ✅      |
+| 3     | Collect and create dataset for training, testing | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ❌      |
+
+
 ## Some reference model for Segmentation task
 
 ✅ was read
@@ -15,7 +24,7 @@ This repo is serve for Final project CS406 class at UIT-VNUHCMC (University of I
 |-----|------------------------------------------------------------|---------|---------------------------------------------------------------------------------------|--------------------|
 | 1   | YOLOv8x-seg                                                | ✅       | Try to use, easy to use, need to custom dataset to fit in domain                      | Huy Pham Bui Nhat  |
 | 2   | U-Net                                                      | ✅       | Chưa test được trên fashion product dataset, nhưng kết quả trên test set vẫn khá thấp | Van Nguyen Thi Nhu |
-| 3   | DeepLab                                                    | ❌       |                                                                                       |                    |
+| 3   | DeepLab                                                    | ✅       | Highly resources needed, use old version lib                                          | Van Nguyen Thi Nhu |
 | 4   | Mask R-CNN                                                 | ✅       | Hard to use --> Skip                                                                  | Huy Pham Bui Nhat  |
 | 5   | FCN (Fully Convolutional Networks)                         | ❌       |                                                                                       |                    |
 | 6   | PSPNet (Pyramid Scene Parsing Network)                     | ❌       |                                                                                       |                    |
