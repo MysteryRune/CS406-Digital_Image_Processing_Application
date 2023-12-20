@@ -7,12 +7,12 @@ This repo is serve for Final project CS406 class at UIT-VNUHCMC (University of I
 
 ## Flow and task
 
-| Stage | Comment                                                         | Inspector                             | Date | Status |
-|-------|-----------------------------------------------------------------|---------------------------------------|------|--------|
-| 1     | Choose dataset                                                  | Huy Pham Bui Nhat                     | _    | ✅      |
+| Stage | Comment                                                                              | Inspector                             | Date | Status |
+|-------|--------------------------------------------------------------------------------------|---------------------------------------|------|--------|
+| 1     | Choose dataset                                                                       | Huy Pham Bui Nhat                     | _    | ✅      |
 | 2     | Choose model for segmentation task: Based on pretrained U2Net clothing segmentation  | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ✅      |
-| 3     | Collect and create dataset for training, testing                | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ❌      |
-| 4     | Collect and create dataset for training, testing                | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ❌      |
+| 3     | Collect and create dataset for training, testing                                     | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ❌      |
+| 4     | Collect and create dataset for training, testing                                     | Huy Pham Bui Nhat, Van Nguyen Thi Nhu | _    | ❌      |
 
 
 ## Some reference model for Segmentation task
